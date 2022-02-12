@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 1016 571.50002"
+   version="1.1"
+   id="svg2311"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Systemfluid Pride Flag Master.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2313"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25449098"
+     inkscape:cx="1286.8825"
+     inkscape:cy="1108.0943"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2308" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2407"
+       inkscape:label="Stripes">
+      <path
+         style="fill:#fee892;stroke-width:1.10446"
+         d="M 0,285.74992 V 0 H 507.99999 1016 V 285.74992 571.5 H 507.99999 0 Z"
+         id="path2415"
+         inkscape:label="5" />
+      <path
+         style="fill:#2f2f2f;stroke-width:0.979662"
+         d="M 0,228.59994 V 0 H 507.99999 1016 V 228.59994 457.19999 H 507.99999 0 Z"
+         id="path2409"
+         inkscape:label="4" />
+      <path
+         style="fill:#8ac1e7;stroke-width:0.85194"
+         d="M 0,171.45 V 0 H 507.99999 1016 V 171.45 342.9 H 507.99999 0 Z"
+         id="path2413"
+         inkscape:label="3" />
+      <path
+         style="fill:#fefefe;stroke-width:0.695606"
+         d="M 0,114.3 V 0 H 507.99999 1016 V 114.3 228.6 H 507.99999 0 Z"
+         id="path2417"
+         inkscape:label="2" />
+      <path
+         style="fill:#7550aa;stroke-width:0.491868"
+         d="M 0,57.15 V 0 H 507.99999 1016 V 57.15 114.3 H 507.99999 0 Z"
+         id="path2411"
+         inkscape:label="1" />
+    </g>
+    <g
+       id="g3218"
+       inkscape:label="Rings">
+      <circle
+         style="fill:#fdac18;fill-opacity:0;stroke:#000000;stroke-width:17;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path2493"
+         r="93.423759"
+         cy="285.75"
+         cx="447.86807"
+         inkscape:label="Left" />
+      <circle
+         style="fill:#fdac18;fill-opacity:0;stroke:#000000;stroke-width:17;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path2493-7"
+         r="93.423759"
+         cy="285.75"
+         cx="568.2699"
+         inkscape:label="Right" />
+      <circle
+         style="fill:#fdac18;fill-opacity:0;stroke:#000000;stroke-width:17;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path2493-2"
+         r="93.423759"
+         cy="345.51981"
+         cx="508"
+         inkscape:label="Bottom" />
+      <circle
+         style="fill:#fdac18;fill-opacity:0;stroke:#000000;stroke-width:17;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path2493-8"
+         r="93.423759"
+         cy="223.48514"
+         cx="508.06894"
+         inkscape:label="Top" />
+    </g>
+  </g>
+</svg>

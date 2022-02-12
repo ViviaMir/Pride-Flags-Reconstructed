@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   sodipodi:docname="Neptunic Pride Flag Master.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.267"
+     inkscape:cx="1679.7753"
+     inkscape:cy="973.78277"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8"
+     transform="translate(960,540)">
+    <g
+       id="g873"
+       transform="matrix(3.84,0,0,3.6,-960,-540)"
+       inkscape:label="Stripes">
+      <path
+         style="display:inline;fill:#7f82e1;stroke-width:2.44949"
+         d="M 0,300 V 0 h 500 500 V 300 600 H 500 0 Z"
+         id="path879"
+         inkscape:label="path879" />
+      <path
+         style="display:inline;fill:#98afe9;stroke-width:2.23607"
+         d="M 0,250 V 0 h 500 500 V 250 500 H 500 0 Z"
+         id="path883"
+         inkscape:label="5" />
+      <path
+         style="display:inline;fill:#a0e5ee;stroke-width:2"
+         d="M 0,200 V 0 h 500 500 V 200 400 H 500 0 Z"
+         id="path885"
+         inkscape:label="4" />
+      <path
+         style="display:inline;fill:#73e8d3;stroke-width:1.73205"
+         d="M 0,150 V 0 h 500 500 V 150 300 H 500 0 Z"
+         id="path881"
+         inkscape:label="3" />
+      <path
+         style="display:inline;fill:#39d4c7;stroke-width:1.41421"
+         d="M 0,100 V 0 h 500 500 V 100 200 H 500 0 Z"
+         id="path877"
+         inkscape:label="2" />
+      <path
+         style="display:inline;fill:#029ab9"
+         d="M 0,50 V 0 h 500 500 v 50 50 H 500 0 Z"
+         id="path875"
+         inkscape:label="1" />
+    </g>
+  </g>
+</svg>

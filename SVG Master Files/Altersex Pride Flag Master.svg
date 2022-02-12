@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1457"
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   sodipodi:docname="Altersex Pride Flag Master.svg"
+   inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\Altersex Pride Heart 2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1461">
+    <symbol
+       id="Extract">
+      <title
+         id="title4187">Extract</title>
+      <desc
+         id="desc4189">Removal of one or more specific sets of times from a set. (ISO)</desc>
+      <path
+         d="m 35,115 40,-70 40,70 z"
+         style="stroke-width:2"
+         id="path4191" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1459"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="2073.2371"
+     inkscape:cy="1533.0075"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5520"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Altersex Pride Flag"
+     id="g1463"
+     transform="translate(960,540.00002)">
+    <g
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\Altersex Pride Flag 1080.png"
+       inkscape:export-xdpi="48"
+       inkscape:export-ydpi="48"
+       id="g5520"
+       inkscape:label="Stripes"
+       transform="matrix(6,0,0,6.4477612,-960,-540)">
+      <path
+         style="fill:#fea7be;stroke-width:2.23607"
+         d="M 0,167.5 V 0 H 320 640 V 167.5 335 H 320 0 Z"
+         id="path5526"
+         inkscape:label="#FFA8BF" />
+      <path
+         style="fill:#cb93fe;stroke-width:2"
+         d="M 0,134 V 0 H 320 640 V 134 268 H 320 0 Z"
+         id="path5524"
+         inkscape:label="#CC94FF" />
+      <path
+         style="fill:#fefefe;stroke-width:1.73205"
+         d="M 0,100.5 V 0 H 320 640 V 100.5 201 H 320 0 Z"
+         id="path5530"
+         inkscape:label="#FFFFFF" />
+      <path
+         style="fill:#92dcfe;stroke-width:1.41421"
+         d="M 0,67 V 0 h 320 320 v 67 67 H 320 0 Z"
+         id="path5528"
+         inkscape:label="#93DDFF" />
+      <path
+         style="fill:#93feb8"
+         d="M 0,33.5 V 0 H 320 640 V 33.5 67 H 320 0 Z"
+         id="path5522"
+         inkscape:label="#94FGB9" />
+    </g>
+    <g
+       id="g835"
+       inkscape:label="Peak">
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:#fffffa;fill-opacity:1;stroke:#ffffff;stroke-width:35;stroke-miterlimit:10;stroke-opacity:1"
+         id="path5190-3"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="-6.805903"
+         sodipodi:cy="-6.1871843"
+         sodipodi:r1="2.2980969"
+         sodipodi:r2="1.1490484"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="-37.913493"
+         inkscape:label="Wide Triangle"
+         d="m -6.8059029,-8.4852812 1.9902102,3.4471454 -3.9804206,-1e-7 z"
+         transform="matrix(25.751666,0,0,19.303934,1135.2634,299.43698)" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:#fffffa;fill-opacity:1;stroke:#ffffff;stroke-width:35;stroke-miterlimit:10;stroke-opacity:1"
+         id="path5190-3-5"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="-6.805903"
+         sodipodi:cy="-6.1871843"
+         sodipodi:r1="2.2980969"
+         sodipodi:r2="1.1490484"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="-37.913481"
+         inkscape:label="Regular Triangle"
+         transform="matrix(19.303934,0,0,19.303934,1091.3808,299.43698)"
+         d="m -6.8059029,-8.4852812 1.9902102,3.4471454 -3.9804206,-1e-7 z"
+         inkscape:transform-center-x="7.569419e-06" />
+    </g>
+  </g>
+</svg>

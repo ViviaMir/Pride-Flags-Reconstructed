@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 1016 571.50002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Autistic Pride Flag Master.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.26173516"
+     inkscape:cx="2332.5105"
+     inkscape:cy="557.81577"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1">
+    <g
+       id="g929"
+       inkscape:label="Stripes">
+      <path
+         style="fill:#26ac74;stroke-width:2.35158"
+         d="M 0,285.75 V 0 h 508 508 V 285.75 571.5 H 508 0 Z"
+         id="path931"
+         inkscape:label="5" />
+      <path
+         style="fill:#98d570;stroke-width:2.15669"
+         d="M 0,244.92849 V 0 h 508 508 v 244.92849 244.9285 H 508 0 Z"
+         id="path937"
+         inkscape:label="4" />
+      <path
+         style="fill:#fbc859;stroke-width:1.1314"
+         d="M 0,204.10713 V 0 h 508 508 V 204.10713 408.21425 H 508 0 Z"
+         id="path939"
+         inkscape:label="3" />
+      <path
+         style="fill:#f68249;stroke-width:1.25103"
+         d="M 0,81.642743 V 0 h 508 508 V 81.642743 163.28548 H 508 0 Z"
+         id="path935"
+         inkscape:label="2" />
+      <path
+         style="fill:#e43345;stroke-width:0.876383"
+         d="M 0,40.821372 V 0 h 508 508 V 40.821372 81.642744 H 508 0 Z"
+         id="path933"
+         inkscape:label="1" />
+    </g>
+    <path
+       d="m 244.17528,288.70286 c -2.11687,-85.21164 96.70485,-145.06108 183.44092,-98.29076 28.57423,15.40809 52.83101,38.22822 78.91268,63.15183 1.1856,1.13315 1.73316,1.01612 2.84297,-0.0364 40.79522,-38.6967 99.86422,-97.70217 182.60158,-74.745 34.81948,9.66127 59.01454,30.91842 71.41032,62.9498 41.48656,107.20333 -77.51782,195.95954 -179.56863,137.12311 -25.73851,-14.83928 -47.96665,-35.31533 -74.24096,-60.49472 -1.4026,-1.34427 -2.03514,-1.15391 -3.31756,0.0629 -29.8504,28.32477 -61.98186,59.11317 -101.66978,72.0023 C 323.82423,416.65415 246.40197,371.36859 244.17528,288.7029 Z m 50.53717,-1.65186 c 2.57486,49.22211 42.81268,72.16841 85.68464,63.44291 37.05102,-7.54073 68.13231,-38.20337 94.60501,-63.81029 0.89198,-0.8628 0.39186,-1.21309 -0.22107,-1.75142 -22.99287,-20.19544 -45.44734,-44.86443 -73.74628,-57.5593 -54.84728,-24.60438 -106.50685,11.47868 -106.3223,59.6781 z m 426.46548,-2.08037 c -1.62993,-47.56968 -41.51315,-73.49252 -87.47151,-63.34881 -36.1603,7.98107 -67.06004,38.49855 -92.73232,63.31891 -0.89057,0.86107 -0.54865,1.26317 0.1812,1.90397 32.09803,28.18679 69.97606,72.68986 121.15219,64.57897 34.08862,-5.40274 58.9465,-33.34151 58.87044,-66.45304 z"
+       id="path1002"
+       inkscape:label="Infinity sign"
+       style="fill:#ffffff;stroke-width:0.200057" />
+  </g>
+</svg>

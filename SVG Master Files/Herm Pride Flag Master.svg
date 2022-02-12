@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- I swear to the gods if I get so much as ONE complaint to the effect that this is offensive, SO HELP ME. This is literally my gender and the one and only label I am remotely comfortable with. Yes, I have looked for alternatives. No, there are none. No, I will not invent some hollow neologism to replace a label with more than a decade worth of of euphoric associations. - AnomalousVixel -->
+
+<svg
+   version="1.1"
+   id="svg5965"
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   sodipodi:docname="Herm Pride Flag Master.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\Herm Pride Flag HD.png"
+   inkscape:export-xdpi="170.66667"
+   inkscape:export-ydpi="170.66667"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5969">
+    <rect
+       x="693.93256"
+       y="370.33707"
+       width="217.52809"
+       height="372.13483"
+       id="rect10794" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview5967"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="3105"
+     inkscape:cy="1072"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5971"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Herm Pride Flag"
+     id="g5971"
+     style="display:inline"
+     transform="translate(960,540)">
+    <g
+       id="g32906"
+       style="display:inline"
+       inkscape:label="Stripes"
+       transform="matrix(2,0,0,2,-960,-540)">
+      <path
+         style="display:inline;fill:#619ffb"
+         d="M 960,1080 H 0 v -90 -90 h 960 960 v 90 90 z"
+         id="path32916"
+         inkscape:label="#63A0FD" />
+      <path
+         style="display:inline;fill:#40fdb5"
+         d="M 960,900 H 0 v -90 -90 h 960 960 v 90 90 z"
+         id="path32914"
+         inkscape:label="#41FFB7" />
+      <path
+         style="display:inline;fill:#d3e824"
+         d="M 960,720 H 0 v -90 -90 h 960 960 v 90 90 z"
+         id="path32912"
+         inkscape:label="#D4EA25" />
+      <path
+         style="display:inline;fill:#fcf44b"
+         d="M 960,540 H 0 v -90 -90 h 960 960 v 90 90 z"
+         id="path32918"
+         inkscape:label="#FEF64D" />
+      <path
+         style="display:inline;fill:#fdb924"
+         d="M 960,360 H 0 v -90 -90 h 960 960 v 90 90 z"
+         id="path32910"
+         inkscape:label="#FEBB26" />
+      <path
+         style="display:inline;fill:#fe7d00"
+         d="M 960,180 H 0 V 90 0 h 960 960 v 90 90 z"
+         id="path32908"
+         inkscape:label="#FF7F00" />
+    </g>
+    <g
+       id="surface1"
+       transform="matrix(105.138,0,0,105.138,329.172,-44.628)"
+       inkscape:label="☿"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#a002be;stroke-width:6.65792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 80,70 C 80,81.054688 71.054688,90 60,90 48.945312,90 40,81.054688 40,70 40,58.945312 48.945312,50 60,50 c 11.054688,0 20,8.945312 20,20 z m 0,0"
+         transform="matrix(0.1,0,0,-0.1,0,12)"
+         id="path14531"
+         inkscape:label="Circle" />
+      <path
+         style="fill:none;stroke:#a002be;stroke-width:6.65792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40,110 c 0,-11.054688 8.945312,-20 20,-20 11.054688,0 20,8.945312 20,20"
+         transform="matrix(0.1,0,0,-0.1,0,12)"
+         id="path14533"
+         inkscape:label="Cradle" />
+      <path
+         style="fill:none;stroke:#a002be;stroke-width:0.650136;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6,10.051703 V 7.3092597"
+         id="path14535"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Column" />
+      <path
+         style="fill:#00ff00;stroke:#a002be;stroke-width:0.665792;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 4.5279222,8.6517528 H 7.4720777"
+         id="path14537"
+         inkscape:label="Horizon" />
+    </g>
+  </g>
+</svg>

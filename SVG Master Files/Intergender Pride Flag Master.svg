@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 1016 571.50002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Intergender Pride Flag Master.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.18507471"
+     inkscape:cx="1774.9589"
+     inkscape:cy="1388.6284"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Intergender Pride Flag"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(338.66666,172.9052)">
+    <g
+       id="g836"
+       inkscape:label="Stripes"
+       style="display:inline"
+       transform="matrix(3.0000001,0,0,2.5322391,-145.89411,-263.64521)">
+      <path
+         style="fill:#fde44e;stroke-width:0.264583"
+         d="M -64.257515,148.6787 V 120.50057 H 105.07581 274.40914 v 28.17813 28.17812 H 105.07581 -64.257515 Z"
+         id="path840"
+         inkscape:label="#FFE64F" />
+      <path
+         style="fill:#8f0cc0;stroke-width:0.264583"
+         d="M -64.257515,219.19016 V 176.85682 H 105.07581 274.40914 v 42.33334 42.33333 H 105.07581 -64.257515 Z m 0,-141.022921 V 35.833904 H 105.07581 274.40914 V 78.167239 120.50057 H 105.07581 -64.257515 Z"
+         id="path838"
+         inkscape:label="#910DC2" />
+    </g>
+    <circle
+       style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:50.6448;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path2117"
+       r="189.15004"
+       cy="112.8448"
+       cx="169.33331"
+       inkscape:label="Circle" />
+  </g>
+</svg>
