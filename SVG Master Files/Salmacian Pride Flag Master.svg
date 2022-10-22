@@ -2,134 +2,146 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="3840.0002"
-   height="2159.9993"
-   viewBox="0 0 1016 571.49982"
+   width="3840"
+   height="2160"
+   viewBox="0 0 1016 571.5"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="Salmacian Pride Flag Master.svg"
-   inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\Reconstruction\Salmacian Pride Flag.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="Salmacian Flag Redesign SVG.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.18507471"
-     inkscape:cx="1791.1686"
-     inkscape:cy="1837.0959"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="987.12107"
+     inkscape:cy="1385.9293"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10193"
-     units="px" />
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs2">
-    <pattern
-       id="EMFhbasepattern"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-  </defs>
+     id="defs2" />
   <g
-     inkscape:label="Salmacian Pride Flag"
+     id="g977"
+     inkscape:label="Loose Parts"
+     transform="translate(1134.5015,74.193682)"
+     style="display:none">
+    <circle
+       style="display:inline;fill:#000000;stroke:none;stroke-width:4.09582;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path31"
+       cx="-517.52502"
+       cy="217.62498"
+       r="79.375" />
+    <path
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -392.9412,138.24998 H -517.525 v 25.1336 h 112.87177 z"
+       id="path2434"
+       sodipodi:nodetypes="ccccc" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:2.79882;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="circle153"
+       cx="-517.52502"
+       cy="217.62498"
+       r="54.239582" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -512.86533,395.444 -341.36884,27.668609"
+       id="path206"
+       inkscape:transform-center-x="-21.235029"
+       inkscape:transform-center-y="-45.530897" />
+    <path
+       id="circle3733"
+       style="display:inline;fill:#000000;stroke:none;stroke-width:4.09583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m -832.37916,138.24996 a 79.374999,79.374999 0 0 0 -79.375,79.375 79.374999,79.374999 0 0 0 79.375,79.37499 79.374999,79.374999 0 0 0 79.375,-79.37499 79.374999,79.374999 0 0 0 -20.75791,-53.40398 l 0.35864,0.35812 0.0439,-0.032 c 0,0 -1.04016,-1.06354 0.43874,-1.16324 h 50.77674 v -0.002 h 0.0599 c 2.32004,-0.0361 3.55519,-2.15198 3.73104,-2.47581 l 9.42062,-20.21738 c 0,0 1.01492,-2.43912 -1.51516,-2.43912 z m 0,25.13541 a 54.239583,54.239583 0 0 1 45.41118,24.61039 c 0.80622,1.37814 -0.047,2.10633 -0.047,2.10633 l 0.0294,0.0119 c -0.15097,0.0874 -0.30853,0.1762 -0.4532,0.26148 -2.30728,1.36014 -3.8542,2.38228 -8.02432,2.38228 -4.17024,0 -5.71758,-1.02219 -8.02483,-2.38228 -2.30725,-1.35998 -5.37677,-3.0546 -10.43554,-3.0546 -5.05879,0 -8.12835,1.69462 -10.43554,3.0546 -2.30744,1.36014 -3.85458,2.38228 -8.02483,2.38228 -4.17012,0 -5.71715,-1.02219 -8.02432,-2.38228 -2.30722,-1.35998 -5.36723,-3.0546 -10.42623,-3.0546 -5.05884,0 -8.12804,1.69462 -10.43554,3.0546 -2.30721,1.36014 -3.8542,2.38228 -8.02432,2.38228 -4.17029,0 -5.71704,-1.02219 -8.02431,-2.38228 -0.14484,-0.0854 -0.30258,-0.17451 -0.45374,-0.262 l 0.029,-0.0114 c 0,0 -0.56653,-0.48391 -0.33951,-1.40922 a 54.239583,54.239583 0 0 1 45.70367,-25.3075 z m -18.4552,44.1384 c 4.17023,0 5.71687,1.02155 8.02431,2.38176 2.30722,1.35996 5.36735,3.05511 10.42624,3.05511 5.05887,0 8.12833,-1.69515 10.43554,-3.05511 2.3073,-1.36024 3.85459,-2.38176 8.02483,-2.38176 4.17006,0 5.71706,1.02155 8.02432,2.38176 2.30739,1.35996 5.37654,3.05511 10.43554,3.05511 5.0588,0 8.12859,-1.69515 10.43605,-3.05511 1.3749,-0.81057 2.48346,-1.49878 4.03438,-1.92443 1.48866,-0.25124 2.17507,1.7284 2.33577,2.2779 a 54.239583,54.239583 0 0 1 0.5178,7.36596 54.239583,54.239583 0 0 1 -0.76998,8.79533 c -0.42397,1.16781 -1.34016,1.53675 -1.84278,1.65261 -0.055,0.0106 -0.10992,0.0211 -0.16433,0.032 -0.1138,0.0182 -0.18293,0.0207 -0.18293,0.0207 l 0.0129,0.0129 c -2.76383,0.58604 -4.74467,1.69492 -6.35259,2.64273 -2.30728,1.36014 -3.85419,2.38177 -8.02431,2.38177 -4.17024,0 -5.71759,-1.02168 -8.02484,-2.38177 -2.30725,-1.35998 -5.37677,-3.05511 -10.43554,-3.05511 -5.05879,0 -8.12834,1.69513 -10.43553,3.05511 -2.30745,1.36014 -3.85407,2.38177 -8.02432,2.38177 -4.17012,0 -5.71766,-1.02168 -8.02484,-2.38177 -2.30721,-1.35998 -5.36671,-3.05511 -10.42571,-3.05511 -5.05884,0 -8.12856,1.69513 -10.43606,3.05511 -2.30719,1.36014 -3.85421,2.38177 -8.02431,2.38177 -4.17028,0 -5.71706,-1.02168 -8.02433,-2.38177 -1.60811,-0.94781 -3.58873,-2.05669 -6.35257,-2.64273 l 0.0129,-0.0129 c 0,0 -0.0691,-0.002 -0.18293,-0.0207 -0.0544,-0.011 -0.10933,-0.0215 -0.16433,-0.032 -0.50263,-0.11586 -1.4188,-0.4848 -1.84277,-1.65261 a 54.239583,54.239583 0 0 1 -0.76999,-8.79533 54.239583,54.239583 0 0 1 0.68781,-7.85947 c 0.30977,-0.7813 0.98631,-1.98437 2.1668,-1.78439 1.5507,0.42567 2.65909,1.11396 4.03387,1.92443 2.3073,1.35996 5.37718,3.05511 10.43604,3.05511 5.0588,0 8.1186,-1.69515 10.42572,-3.05511 2.30727,-1.36024 3.86391,-2.38176 8.03414,-2.38176 z m -5.2e-4,40.40528 c 4.17024,0 5.71739,1.02207 8.02483,2.38228 2.30722,1.35996 5.36683,3.05511 10.42572,3.05511 5.05887,0 8.12885,-1.69515 10.43606,-3.05511 2.3073,-1.36024 3.85407,-2.38228 8.02431,-2.38228 4.17006,0 5.71706,1.02207 8.02432,2.38228 2.21149,1.30344 5.12833,2.91051 9.82059,3.04219 2.64382,0.14853 2.95937,0.96989 2.84375,1.54203 a 54.239583,54.239583 0 0 1 -39.14386,16.96898 54.239583,54.239583 0 0 1 -39.14386,-16.96898 c -0.1157,-0.5725 0.20045,-1.39426 2.84893,-1.54203 4.68833,-0.13271 7.59465,-1.73922 9.80507,-3.04219 2.30727,-1.36024 3.86391,-2.38228 8.03414,-2.38228 z" />
+  </g>
+  <g
+     inkscape:label="Flag"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1.5449524e-4)">
-    <g
-       id="g1839"
-       inkscape:label="Stripes"
-       transform="matrix(6.2597555,0,0,5.6559603,-426.84667,-235.22807)"
-       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\Reconstruction\Salmacian Pride Flag.png"
+     transform="translate(309.56249,107.81254)">
+    <rect
+       style="display:inline;fill:#4f7942;fill-opacity:1;stroke:#4f7942;stroke-width:52.4437;stroke-miterlimit:10;stroke-opacity:1"
+       id="rect854"
+       width="963.55627"
+       height="519.05627"
+       x="-283.34064"
+       y="-81.590691"
+       inkscape:label="Green Backdrop"
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\GitHub\Pride-Flags-Reconstruction\Emoji\Salmacian Pride Square.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
-         style="fill:#cdffd3;fill-opacity:1;stroke:#cdffd3;stroke-width:57.0351;stroke-miterlimit:10;stroke-opacity:1"
-         id="rect2158-5-3-7"
-         width="105.27151"
-         height="44.008709"
-         x="96.706581"
-         y="70.106964"
-         inkscape:label="#cdffd3" />
-      <rect
-         style="fill:#cbfdf1;fill-opacity:1;stroke:#cbfdf1;stroke-width:49.6585;stroke-miterlimit:10;stroke-opacity:1"
-         id="rect2158-5-3"
-         width="112.64813"
-         height="31.176556"
-         x="93.01828"
-         y="66.465446"
-         inkscape:label="#cdfff3" />
-      <rect
-         style="fill:#b1e3fe;fill-opacity:1;stroke:#b1e3fe;stroke-width:40.9486;stroke-miterlimit:10;stroke-opacity:1"
-         id="rect2158-5"
-         width="121.35805"
-         height="19.677698"
-         x="88.66333"
-         y="62.063713"
-         inkscape:label="#b1e3fe" />
-      <rect
-         style="fill:#b1cafd;fill-opacity:1;stroke:#b1cafd;stroke-width:30.4228;stroke-miterlimit:10;stroke-opacity:1"
-         id="rect2158"
-         width="131.88385"
-         height="9.9947357"
-         x="83.400429"
-         y="56.800812"
-         inkscape:label="#b2cbff" />
-      <rect
-         style="fill:#bcb2fe;fill-opacity:1;stroke:#bcb2fe;stroke-width:17.2774;stroke-miterlimit:10;stroke-opacity:1"
-         id="rect2158-6"
-         width="145.02922"
-         height="2.9313364"
-         x="76.827728"
-         y="50.228111"
-         inkscape:label="#bcb2fe" />
-    </g>
-    <g
-       id="g10193"
-       inkscape:label="Peak and Band"
-       style="display:inline">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:16.3295;stroke-miterlimit:10;stroke-opacity:1"
-         id="rect9391"
-         width="999.67047"
-         height="2.1912866"
-         x="8.1645956"
-         y="284.65424"
-         inkscape:label="#ffffff" />
-      <path
-         sodipodi:type="star"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:181.417;stroke-miterlimit:10;stroke-opacity:1"
-         id="path869"
-         inkscape:flatsided="false"
-         sodipodi:sides="3"
-         sodipodi:cx="242.80736"
-         sodipodi:cy="81.386055"
-         sodipodi:r1="24.093054"
-         sodipodi:r2="12.046527"
-         sodipodi:arg1="0.52359878"
-         sodipodi:arg2="1.5707963"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 263.67255,93.432582 -20.86519,0 -20.8652,0 10.4326,-18.06979 10.4326,-18.069791 10.4326,18.06979 z"
-         transform="matrix(0.83025661,0,0,0.83025661,306.40759,136.6156)"
-         inkscape:transform-center-y="-5.0008525"
-         inkscape:label="Triangle"
-         inkscape:transform-center-x="-5.1011134e-06" />
-    </g>
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#7644b6;fill-opacity:1;stroke:none;stroke-width:17.5484;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect65"
+       width="952.49994"
+       height="571.49994"
+       x="-277.81247"
+       y="-107.81252"
+       inkscape:label="Purple Backdrop"
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\GitHub\Pride-Flags-Reconstruction\Emoji\Salmacian Pride Square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path220"
+       style="display:inline;fill:#4f7942;fill-opacity:1;stroke:none;stroke-width:0.634999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 555.54185,-107.81249 289.04654,463.68746 h 385.6409 v -571.49997 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="Green Panel Right"
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\GitHub\Pride-Flags-Reconstruction\Emoji\Salmacian Pride Square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1424"
+       style="fill:#4f7942;fill-opacity:1;stroke:none;stroke-width:0.634999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -158.66684,463.68748 107.82843,-107.81248 H -277.81246 V 463.68748 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="Green Panel Left"
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\GitHub\Pride-Flags-Reconstruction\Emoji\Salmacian Pride Square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:0.634999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 337.53993,463.68746 604.03524,-107.81249 H 555.54185 L 289.04654,463.68746 Z"
+       id="path76850"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="Gold Stripe Right"
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\GitHub\Pride-Flags-Reconstruction\Emoji\Salmacian Pride Square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:0.634999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -158.66684,463.68748 107.82848,-107.81247 H 59.335094 L -207.16023,463.68748 Z"
+       id="path81010"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="Green Stripe Left"
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\GitHub\Pride-Flags-Reconstruction\Emoji\Salmacian Pride Square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="circle3733-9"
+       style="display:inline;fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:7.37249;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 198.43745,35.06256 A 142.87495,142.87495 0 0 0 55.56251,177.93753 142.87495,142.87495 0 0 0 198.43745,320.81244 142.87495,142.87495 0 0 0 341.31239,177.93753 142.87495,142.87495 0 0 0 303.94819,81.810404 l 0.64553,0.644592 0.079,-0.0576 c 0,0 -1.87229,-1.914359 0.78972,-2.093807 h 91.39811 v -0.0024 h 0.10776 c 4.17605,-0.06504 6.39934,-3.873576 6.71587,-4.456488 l 16.95708,-36.391246 c 0,0 1.82688,-4.390439 -2.72726,-4.390439 z m 0,45.243741 a 97.631218,97.631218 0 0 1 81.74011,44.298669 c 1.45118,2.48066 -0.0847,3.7914 -0.0847,3.7914 l 0.053,0.0216 c -0.27175,0.15744 -0.55536,0.31716 -0.81576,0.47066 -4.15311,2.44827 -6.93756,4.28811 -14.44378,4.28811 -7.50643,0 -10.29163,-1.83994 -14.44468,-4.28811 -4.15304,-2.44795 -9.67817,-5.49825 -18.78396,-5.49825 -9.10582,0 -14.63103,3.0503 -18.78396,5.49825 -4.15339,2.44827 -6.93826,4.28811 -14.44471,4.28811 -7.50619,0 -10.29087,-1.83994 -14.44375,-4.28811 -4.15301,-2.44795 -9.66103,-5.49825 -18.76723,-5.49825 -9.10592,0 -14.63047,3.0503 -18.78396,5.49825 -4.15296,2.44827 -6.93756,4.28811 -14.44378,4.28811 -7.5065,0 -10.29064,-1.83994 -14.44375,-4.28811 -0.26071,-0.1536 -0.54463,-0.31411 -0.81672,-0.4716 l 0.0521,-0.0192 c 0,0 -1.01973,-0.87103 -0.61111,-2.53658 A 97.631218,97.631218 0 0 1 198.4374,80.307789 Z m -33.21936,79.449089 c 7.50644,0 10.29039,1.83878 14.44376,4.28717 4.153,2.44793 9.66124,5.49919 18.76723,5.49919 9.10596,0 14.63097,-3.05126 18.78395,-5.49919 4.15313,-2.44843 6.93828,-4.28717 14.44472,-4.28717 7.50609,0 10.29067,1.83878 14.44375,4.28717 4.15329,2.44793 9.67776,5.49919 18.78396,5.49919 9.10583,0 14.63147,-3.05126 18.78489,-5.49919 2.47483,-1.45903 4.47022,-2.69779 7.2619,-3.46397 2.67957,-0.45226 3.91512,3.11112 4.20436,4.10021 a 97.631218,97.631218 0 0 1 0.93204,13.25873 97.631218,97.631218 0 0 1 -1.38595,15.83159 c -0.76315,2.10204 -2.41231,2.76615 -3.31699,2.97468 -0.0989,0.0192 -0.19776,0.0379 -0.2958,0.0576 -0.20496,0.0329 -0.3293,0.0372 -0.3293,0.0372 l 0.024,0.024 c -4.97489,1.05488 -8.5404,3.05088 -11.43466,4.75695 -4.1531,2.44824 -6.93756,4.28717 -14.44375,4.28717 -7.50643,0 -10.29166,-1.83903 -14.44471,-4.28717 -4.15303,-2.44798 -9.67817,-5.49919 -18.78396,-5.49919 -9.10582,0 -14.631,3.05121 -18.78396,5.49919 -4.15339,2.44824 -6.93732,4.28717 -14.44375,4.28717 -7.50622,0 -10.2918,-1.83903 -14.44471,-4.28717 -4.15301,-2.44798 -9.66007,-5.49919 -18.76627,-5.49919 -9.10594,0 -14.63141,3.05121 -18.7849,5.49919 -4.15293,2.44824 -6.93756,4.28717 -14.44375,4.28717 -7.5065,0 -10.29069,-1.83903 -14.4438,-4.28717 -2.89459,-1.70607 -6.45969,-3.70207 -11.4346,-4.75695 l 0.024,-0.024 c 0,0 -0.12432,-0.005 -0.32928,-0.0372 -0.0979,-0.0192 -0.1968,-0.0386 -0.29578,-0.0576 -0.90475,-0.20856 -2.55384,-0.87264 -3.31699,-2.97468 a 97.631218,97.631218 0 0 1 -1.38598,-15.83159 97.631218,97.631218 0 0 1 1.23804,-14.14704 c 0.55759,-1.40636 1.77538,-3.57188 3.90024,-3.2119 2.79127,0.7662 4.78637,2.00513 7.26096,3.46397 4.15315,2.44793 9.67894,5.49919 18.78487,5.49919 9.10584,0 14.61346,-3.05126 18.76627,-5.49919 4.15308,-2.44843 6.95503,-4.28717 14.46147,-4.28717 z m -9.6e-4,72.72948 c 7.50644,0 10.29132,1.83972 14.44472,4.2881 4.15298,2.44793 9.66028,5.49919 18.76629,5.49919 9.10596,0 14.63189,-3.05126 18.78487,-5.49919 4.15315,-2.44843 6.93734,-4.2881 14.44378,-4.2881 7.50609,0 10.29069,1.83972 14.44377,4.2881 3.98066,2.34619 9.23098,5.23891 17.67706,5.47594 4.75886,0.26736 5.32684,1.7458 5.11874,2.77564 a 97.631218,97.631218 0 0 1 -70.45891,30.54415 97.631218,97.631218 0 0 1 -70.45893,-30.54415 c -0.20832,-1.03048 0.36079,-2.50965 5.12806,-2.77564 8.43902,-0.2388 13.67037,-3.13059 17.64914,-5.47594 4.15308,-2.44843 6.95501,-4.2881 14.46144,-4.2881 z"
+       inkscape:label="Symbol"
+       inkscape:export-filename="D:\Users\ELRinley\Pictures\Pride\GitHub\Pride-Flags-Reconstruction\Emoji\Salmacian Pride Square.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
