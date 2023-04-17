@@ -4,10 +4,10 @@
 <svg
    width="3840"
    height="2160"
-   viewBox="0 0 1016 571.50002"
+   viewBox="0 0 3840 2160"
    version="1.1"
    id="svg1315"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Poly Pride Flag Master.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,18 +21,20 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.089976151"
-     inkscape:cx="-50.013253"
+     inkscape:cx="-805.76908"
      inkscape:cy="622.38715"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     units="px" />
+     units="px"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs1312" />
   <g
@@ -45,7 +47,7 @@
        id="g1675"
        inkscape:label="Stripes"
        style="display:inline"
-       transform="matrix(2.56,0,0,2.4,-309.5625,-166.6875)">
+       transform="matrix(9.6755906,0,0,9.0708661,-309.5625,-166.6875)">
       <path
          style="fill:#090f29;stroke-width:0.591625"
          d="M 0,119.0625 V 0 H 198.4375 396.875 V 119.0625 238.125 H 198.4375 0 Z"
@@ -71,7 +73,7 @@
        id="g1969"
        style="display:inline"
        inkscape:label="Heart"
-       transform="matrix(2.4,0,0,2.4,-277.8125,-166.6875)">
+       transform="matrix(9.0708661,0,0,9.0708661,-189.5625,-166.6875)">
       <rect
          style="display:inline;fill:#fdac18;fill-opacity:1;stroke:#fdac18;stroke-width:101.826;stroke-miterlimit:10;stroke-opacity:1"
          id="rect2015"

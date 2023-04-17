@@ -4,10 +4,10 @@
 <svg
    width="3840"
    height="2160"
-   viewBox="0 0 1016 571.5"
+   viewBox="0 0 3840 2160"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Altergender Pride Flag Master.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,15 +22,15 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.1767767"
-     inkscape:cx="828.72915"
-     inkscape:cy="1476.439"
+     inkscape:cx="449.7199"
+     inkscape:cy="1476.4389"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-page="false"
@@ -40,7 +40,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     units="px" />
+     units="px"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs2" />
   <g
@@ -105,54 +107,54 @@
        inkscape:label="Stripes"
        style="display:inline">
       <rect
-         style="fill:#fdfdfd;fill-opacity:1;stroke-width:0.846665"
+         style="fill:#fdfdfd;fill-opacity:1;stroke-width:3.19999"
          id="rect16648"
-         width="1016"
-         height="571.5"
+         width="3840"
+         height="2160"
          x="-388.9375"
          y="-166.6875" />
       <rect
-         style="fill:#90b9f6;fill-opacity:1;stroke-width:0.634999"
+         style="fill:#90b9f6;fill-opacity:1;stroke-width:2.4"
          id="rect9448"
-         width="148.59"
-         height="571.5"
-         x="-166.6875"
+         width="561.59998"
+         height="2160"
+         x="451.06247"
          y="-166.6875" />
       <rect
-         style="display:inline;fill:#90b9f6;fill-opacity:1;stroke-width:0.65766"
+         style="display:inline;fill:#90b9f6;fill-opacity:1;stroke-width:2.48564"
          id="rect9448-5"
-         width="159.38499"
-         height="571.5"
+         width="602.39996"
+         height="2160"
          x="-388.9375"
          y="-166.6875" />
       <rect
-         style="fill:#c769ee;fill-opacity:1;stroke-width:0.634999"
+         style="fill:#c769ee;fill-opacity:1;stroke-width:2.4"
          id="rect10837"
-         width="148.59"
-         height="571.5"
-         x="256.22247"
+         width="561.59998"
+         height="2160"
+         x="2049.4624"
          y="-166.6875" />
       <rect
-         style="display:inline;fill:#c769ee;fill-opacity:1;stroke-width:0.65766"
+         style="display:inline;fill:#c769ee;fill-opacity:1;stroke-width:2.48564"
          id="rect10837-2"
-         width="159.38501"
-         height="571.5"
-         x="467.67749"
-         y="-166.68748" />
+         width="602.40002"
+         height="2160"
+         x="2848.6624"
+         y="-166.68744" />
       <rect
-         style="fill:#ff96c9;fill-opacity:1;stroke-width:0.634999"
+         style="fill:#ff96c9;fill-opacity:1;stroke-width:2.4"
          id="rect13385"
-         width="148.59"
-         height="571.5"
-         x="44.767483"
+         width="561.59998"
+         height="2160"
+         x="1250.2625"
          y="-166.6875"
          ry="0" />
       <rect
-         style="fill:#fdfdfd;fill-opacity:1;stroke-width:0.634999"
+         style="fill:#fdfdfd;fill-opacity:1;stroke-width:2.4"
          id="rect17636"
-         width="62.864994"
-         height="571.5"
-         x="-18.097509"
+         width="237.59998"
+         height="2160"
+         x="1012.6624"
          y="-166.6875" />
     </g>
     <g
@@ -161,24 +163,24 @@
        inkscape:label="Emblem"
        style="display:inline;opacity:1">
       <ellipse
-         style="fill:#52fcc0;fill-opacity:1;stroke:#000000;stroke-width:4.79952;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#52fcc0;fill-opacity:1;stroke:#000000;stroke-width:18.1399;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="path18103"
-         cx="119.06249"
-         cy="119.06249"
-         rx="189.21146"
-         ry="189.21149" />
+         cx="1531.0624"
+         cy="913.31244"
+         rx="715.12988"
+         ry="715.13" />
       <circle
-         style="fill:#fdfdfd;fill-opacity:1;stroke:#000000;stroke-width:7.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#fdfdfd;fill-opacity:1;stroke:#000000;stroke-width:27.2126;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="path34311"
-         cx="119.06249"
-         cy="119.06249"
-         r="152.83377" />
+         cx="1531.0624"
+         cy="913.31244"
+         r="577.6394" />
       <circle
-         style="fill:#000100;fill-opacity:1;stroke:none;stroke-width:7.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#000100;fill-opacity:1;stroke:none;stroke-width:27.2126;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="path34698"
-         cx="119.06249"
-         cy="119.06249"
-         r="136.06004" />
+         cx="1531.0624"
+         cy="913.31244"
+         r="514.24268" />
       <path
          sodipodi:type="star"
          style="fill:#fdfd62;fill-opacity:1;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -194,9 +196,9 @@
          inkscape:rounded="0"
          inkscape:randomized="0"
          d="M 893.07588,555.26608 589.78934,29.958428 l 606.57306,-1.6e-5 z"
-         transform="matrix(-0.59037781,0,0,-0.59037781,646.31466,240.12593)"
-         inkscape:transform-center-x="-3.2224722e-05"
-         inkscape:transform-center-y="-11.508424" />
+         transform="matrix(-2.2313491,0,0,-2.2313491,3523.8265,1370.875)"
+         inkscape:transform-center-x="-0.00019588643"
+         inkscape:transform-center-y="-43.496421" />
     </g>
   </g>
 </svg>

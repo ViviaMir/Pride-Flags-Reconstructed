@@ -4,10 +4,10 @@
 <svg
    width="3840"
    height="2160"
-   viewBox="0 0 1016 571.50002"
+   viewBox="0 0 3840 2160"
    version="1.1"
    id="svg2311"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Systemfluid Pride Flag Master.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,18 +21,20 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.25449098"
-     inkscape:cx="1286.8825"
+     inkscape:cx="1019.6825"
      inkscape:cy="1108.0943"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     units="px" />
+     units="px"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs2308" />
   <g
@@ -41,7 +43,8 @@
      id="layer1">
     <g
        id="g2407"
-       inkscape:label="Stripes">
+       inkscape:label="Stripes"
+       transform="scale(3.7795276)">
       <path
          style="fill:#fee892;stroke-width:1.10446"
          d="M 0,285.74992 V 0 H 507.99999 1016 V 285.74992 571.5 H 507.99999 0 Z"
@@ -70,7 +73,8 @@
     </g>
     <g
        id="g3218"
-       inkscape:label="Rings">
+       inkscape:label="Rings"
+       transform="scale(3.7795276)">
       <circle
          style="fill:#fdac18;fill-opacity:0;stroke:#000000;stroke-width:17;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path2493"

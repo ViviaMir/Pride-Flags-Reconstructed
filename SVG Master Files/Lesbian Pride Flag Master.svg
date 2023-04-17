@@ -4,10 +4,10 @@
 <svg
    width="3840"
    height="2160"
-   viewBox="0 0 1016 571.50002"
+   viewBox="0 0 3840 2160"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Lesbian Pride Flag Master.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,22 +21,24 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.18507471"
-     inkscape:cx="1774.9589"
+     inkscape:cx="1412.9429"
      inkscape:cy="1199.5156"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs2" />
   <g
@@ -46,7 +48,8 @@
      transform="translate(423.33332,241.3)">
     <g
        id="g963"
-       inkscape:label="Stripes">
+       inkscape:label="Stripes"
+       transform="matrix(3.7795276,0,0,3.7795276,1176.6666,670.7)">
       <path
          style="fill:#a40061;stroke-width:4.34754"
          d="M -423.33332,44.450018 V -241.29996 H 84.666665 592.66665 V 44.450018 330.2 H 84.666665 -423.33332 Z"

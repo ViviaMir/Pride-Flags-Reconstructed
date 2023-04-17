@@ -4,10 +4,10 @@
 <svg
    width="3840"
    height="2160"
-   viewBox="0 0 1016 571.50002"
+   viewBox="0 0 3840 2160"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Idemromantic Pride Flag Master.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,22 +21,24 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.18507471"
-     inkscape:cx="1299.4752"
+     inkscape:cx="932.05603"
      inkscape:cy="1237.3382"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      units="px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs2" />
   <g
@@ -45,7 +47,7 @@
      id="layer1">
     <g
        id="g842"
-       transform="matrix(2.3999999,0,0,2.2485009,0,0.38076114)">
+       transform="matrix(9.0708659,0,0,8.4982713,0,1.4390973)">
       <path
          style="fill:#feaeaf;stroke-width:0.169333"
          d="M 0,127.16932 V 0.33868 H 211.66667 423.33334 V 127.16932 254 H 211.66667 0 Z"
