@@ -37,3 +37,5 @@
 1542.856
 1851.428
 2160
+
+Progress Pride arrow steppage: -208.500

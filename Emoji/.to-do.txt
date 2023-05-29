@@ -1,5 +1,0 @@
-Fix transparency
--	NONE	
-
-Finish trimming and stamping
--	NONE	
