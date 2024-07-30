@@ -21,6 +21,3 @@ Ground rules:
 6. Be exact. This is quality control at its core. Messily-placed and messily-sized elements are unacceptable. Each stripe on a 5-stripe flag should be exactly 1/5th of the flag's size unless the design specifically calls for something different.
 
 Each reconstructed flag is to be a love-letter to the groups and communities they represent and a thank-you to the creativity and labor that grants us these icons to show us that we aren't alone in the world - that someone out there loves and accepts who and what we are, and someone out there shares our experience and self-concept.
-
-# Update
-This repository is being updated to include Obsidian features
